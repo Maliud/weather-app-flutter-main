@@ -1,6 +1,10 @@
 
 
 
+https://github.com/Maliud/weather-app-flutter-main/assets/72108306/a7a35d18-8269-447f-9243-b382d12e3916
+
+
+
 # Weather App--Flutter-Main
 
 The "Weather App flutter main" project utilizing the OpenWeatherMap API is a mobile application designed to provide users with up-to-date weather information. Users can easily access current weather conditions, forecasts, and related data for current location. This project leverages the OpenWeatherMap API to fetch real-time weather data for current day & forecast of 7 days ahead, making it a valuable tool for users seeking accurate weather information on the go.
@@ -38,6 +42,16 @@ If you don't have an API Key then [CREATE HERE](https://home.openweathermap.org/
 
 ### Light Theme
 
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-08 at 14 30 01](https://github.com/Maliud/weather-app-flutter-main/assets/72108306/2435b910-73a3-4447-93ae-5c42e41aa659)
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-08 at 14 30 12](https://github.com/Maliud/weather-app-flutter-main/assets/72108306/7fb083e7-2b51-41de-887c-3e18f698c5c7)
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-08 at 14 30 22](https://github.com/Maliud/weather-app-flutter-main/assets/72108306/02abb4ba-3f53-4b1f-8876-8597e3b8660c)
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-08 at 14 30 30](https://github.com/Maliud/weather-app-flutter-main/assets/72108306/f62802a8-f120-4a5c-ba78-31340b9eb22a)
+
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-03-08 at 14 30 35](https://github.com/Maliud/weather-app-flutter-main/assets/72108306/d940aa0f-ee32-4d1e-b58b-6775a0345deb)
+
 ## Color Reference
 
 ### Dark Theme
@@ -65,17 +79,17 @@ Color             | Hex                                                         
 
 ## Fonts
 
-[Poppins](https://github.com/SheershBhatnagar/Weather-App-2.0---Flutter/tree/master/lib/assets/fonts)
+[Poppins](https://github.com/Maliud/weather-app-flutter-main/tree/main/assets/fonts)
 ## Icon Assets
 
-[Weather Icons Folder](https://github.com/SheershBhatnagar/Weather-App-2.0---Flutter/tree/master/lib/assets/weather)
+[Weather Icons Folder](https://github.com/Maliud/weather-app-flutter-main/tree/main/assets/weather)
 
-[Icons Folder](https://github.com/SheershBhatnagar/Weather-App-2.0---Flutter/tree/master/lib/assets/icons)
+[Icons Folder](https://github.com/Maliud/weather-app-flutter-main/tree/main/assets/icons)
 
 ## Installation
 
 ```bash
-git clone "https://github.com/SheershBhatnagar/Weather-App-2.0---Flutter.git"
+git clone "https://github.com/Maliud/weather-app-flutter-main.git"
 cd Weather-App-Flutter-main
 ```
 
@@ -108,7 +122,7 @@ Build > Flutter > Build iOS
 Build > Flutter > Build Web
 ## License
 
-[GNU General Public License v3.0](lisans httpsi)
+[GNU General Public License v3.0](https://github.com/Maliud/weather-app-flutter-main/blob/main/LICENCE)
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/license/gpl-3-0/)
 
